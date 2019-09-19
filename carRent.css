@@ -1,3 +1,5 @@
+
+
 body{
   margin:0;
 }
@@ -41,20 +43,20 @@ h1{
 .car-img-info a {
   display: block;
   text-decoration: none;
-  color: #ababab;
+  color: #B9CFF0;
   font-size: 25px;
   font-weight: bold;
 }
 
 .car-img-info a:hover {
-  color: #dcd6d6; 
+  color: #FD6A02;
   font-size: 27px;
 }
 
 h2{
   margin: 15px;
-  color: #ababab;
-  border-bottom: 2px dotted #e2dede ;
+  color: #FD6A02;
+  border-bottom: 2px dotted #B9CFF0  ;
 }
 
 #car-info{
@@ -78,12 +80,19 @@ h2{
   height: 200px;
   width: 250px; 
   font-size: 20px;
-  color:#ababab;
+  color: #B9CFF0;
   font-weight: bold; 
-  text-align:left ;
-
+  text-align: left ;
 }
 
-
-
+#rent{ 
+  background-color: #FD6A02;
+  color: white;
+  font-weight: bold;
+  width: 100px;
+  height: 40px;
+  border-radius: 10px;
+  border: none;
+  margin-bottom: 15px;
+}
 
