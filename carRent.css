@@ -1,3 +1,4 @@
+
 body{
   margin:0;
 }
@@ -47,7 +48,7 @@ h1{
 }
 
 .car-img-info a:hover {
-  color: #dcd6d6;
+  color: #FD6A02;
   font-size: 27px;
 }
 
@@ -78,10 +79,20 @@ h2{
   height: 200px;
   width: 250px; 
   font-size: 20px;
-  color:#ababab;
+  color: #ababab;
   font-weight: bold; 
-  text-align:left ;
+  text-align: left ;
+}
 
+#rent{ 
+  background-color: #FD6A02;
+  color: white;
+  font-weight: bold;
+  width: 100px;
+  height: 40px;
+  border-radius: 10px;
+  border: none;
+  margin-bottom: 15px;
 }
 
 
